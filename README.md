@@ -1,3 +1,6 @@
+![Project Banner](https://github.com/abdullahahmadd/Countries-GDP-Web-Scraping-Project/blob/main/banner_gdp_webscraping.png)
+
+
 # 🌍 Countries GDP Web Scraping & Data Analysis
 ### IBM Data Engineering Specialization – Portfolio Project
 
