@@ -10,11 +10,11 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 
-This project demonstrates the use of **web scraping techniques** to extract nominal GDP data from an archived Wikipedia webpage. The scraped data is cleaned, structured, transformed, and analyzed to identify the top 10 largest economies in the world. The main focus is on working directly with **raw HTML content**, extracting meaningful information, and converting it into a usable analytical dataset.
-
 ---
 
 ## 📌 Overview
+
+This project demonstrates the use of **web scraping techniques** to extract nominal GDP data from an archived Wikipedia webpage. The scraped data is cleaned, structured, transformed, and analyzed to identify the top 10 largest economies in the world. The main focus is on working directly with **raw HTML content**, extracting meaningful information, and converting it into a usable analytical dataset.
 
 The project workflow includes:
 
