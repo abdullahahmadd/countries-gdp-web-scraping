@@ -9,6 +9,19 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
+---
+
+# 📑 Table of Contents
+
+- [📌 Overview](#-overview)  
+- [🧠 Skills Demonstrated](#-skills-demonstrated)  
+- [🛠️ Tools & Technologies](#️-tools--technologies)  
+- [📚 Libraries Used](#-libraries-used)  
+- [🌐 Data Source](#-data-source)  
+- [📊 Final Output Summary](#-final-output-summary)  
+- [🖼️ Results](#️-results)  
+- [📥 How to Use](#-how-to-use)  
+- [📎 Summary](#-summary)  
 
 ---
 
