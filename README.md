@@ -1,7 +1,7 @@
 # 🌍 Countries GDP Web Scraping & Data Analysis
 ### IBM Data Engineering Specialization – Portfolio Project
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourreponame)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=abdullahahmadd.Countries-GDP-Web-Scraping)
 ![Web Scraping](https://img.shields.io/badge/Web%20Scraping-Data%20Extraction-orange?style=for-the-badge&logo=webflow&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
