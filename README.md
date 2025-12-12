@@ -97,26 +97,52 @@ This dataset provides a clear comparative view of the economic standing of the t
 Below are visual snapshots of key stages from the analysis.  
 *(All images are stored inside the `web_scraping_results/` folder.)*
 
-### ✔ Extracting Nominal GDP Data  
-![Extracting GDP](web_scraping_results/Extracting_Nominal_GDP_Data.png)
+| 1. Extracting Nominal GDP Data |
+|-----------------------------|
+| ![Extracting GDP](web_scraping_results/Extracting_Nominal_GDP_Data.png) |
+| Initial extraction of GDP values from the archived HTML table. |
 
-### ✔ Cleaning Data & Removing Aggregates  
-![Removing Aggregates](web_scraping_results/Removing_Aggregate_Rows.png)
+---
 
-### ✔ Top 10 Largest Economies  
-![Top 10](web_scraping_results/Top_10_Largest_Economies.png)
+| 2. Cleaning Data & Removing Aggregates |
+|-------------------------------------|
+| ![Removing Aggregates](web_scraping_results/Removing_Aggregate_Rows.png) |
+| Removed non-country rows and cleaned numerical values. |
 
-### ✔ Converting GDP to Billions  
-![GDP Billions](web_scraping_results/Converting_GDP_to_Billion_USD.png)
+---
 
-### ✔ Adding GDP Share (%)  
-![GDP Share](web_scraping_results/Adding_GDP_Share.png)
+| 3. Top 10 Largest Economies |
+|---------------------------|
+| ![Top 10](web_scraping_results/Top_10_Largest_Economies.png) |
+| Selected the top 10 countries based on nominal GDP. |
 
-### ✔ Ranking the Economies  
-![Ranking](web_scraping_results/Adding_Ranking.png)
+---
 
-### ✔ Normalized GDP Score  
-![Normalized Score](web_scraping_results/Adding_Normalized_Score.png)
+| 4. Converting GDP to Billions |
+|-----------------------------|
+| ![GDP Billions](web_scraping_results/Converting_GDP_to_Billion_USD.png) |
+| Converted GDP values from millions to billions for better readability. |
+
+---
+
+| 5. Adding GDP Share (%) |
+|-----------------------|
+| ![GDP Share](web_scraping_results/Adding_GDP_Share.png) |
+| Calculated each country's GDP share relative to the top 10. |
+
+---
+
+| 6. Ranking the Economies |
+|------------------------|
+| ![Ranking](web_scraping_results/Adding_Ranking.png) |
+| Ranked countries from largest to smallest nominal GDP. |
+
+---
+
+| 7. Normalized GDP Score |
+|-----------------------|
+| ![Normalized Score](web_scraping_results/Adding_Normalized_Score.png) |
+| Scaled GDP values from 0–1 for comparative analysis. |
 
 ---
 
